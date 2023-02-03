@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1675437617,,"wq!"
+|2,0,1675437788,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,42 @@
 # Registers:
 
 # File marks:
-'0  1  16  ~/index.new
-|4,48,1,16,1675437617,"~/index.new"
-'1  3  0  ~/mydir/index.new
-|4,49,3,0,1675436613,"~/mydir/index.new"
-'2  1  0  ~/mydir/index.new
-|4,50,1,0,1675436380,"~/mydir/index.new"
+'0  2  0  ~/dir/index.new
+|4,48,2,0,1675437788,"~/dir/index.new"
+'1  1  16  ~/index.new
+|4,49,1,16,1675437617,"~/index.new"
+'2  3  0  ~/mydir/index.new
+|4,50,3,0,1675436613,"~/mydir/index.new"
 '3  1  0  ~/mydir/index.new
 |4,51,1,0,1675436380,"~/mydir/index.new"
 '4  1  0  ~/mydir/index.new
-|4,52,1,0,1675436276,"~/mydir/index.new"
+|4,52,1,0,1675436380,"~/mydir/index.new"
 '5  1  0  ~/mydir/index.new
 |4,53,1,0,1675436276,"~/mydir/index.new"
+'6  1  0  ~/mydir/index.new
+|4,54,1,0,1675436276,"~/mydir/index.new"
 
 # Jumplist (newest first):
+-'  2  0  ~/dir/index.new
+|4,39,2,0,1675437788,"~/dir/index.new"
+-'  1  0  ~/dir/index.new
+|4,39,1,0,1675437774,"~/dir/index.new"
+-'  1  16  ~/index.new
+|4,39,1,16,1675437617,"~/index.new"
 -'  1  16  ~/index.new
 |4,39,1,16,1675437617,"~/index.new"
 -'  3  0  ~/mydir/index.new
 |4,39,3,0,1675436613,"~/mydir/index.new"
 -'  3  0  ~/mydir/index.new
 |4,39,3,0,1675436613,"~/mydir/index.new"
+-'  3  0  ~/mydir/index.new
+|4,39,3,0,1675436613,"~/mydir/index.new"
+-'  3  0  ~/mydir/index.new
+|4,39,3,0,1675436613,"~/mydir/index.new"
+-'  1  0  ~/mydir/index.new
+|4,39,1,0,1675436585,"~/mydir/index.new"
+-'  1  0  ~/mydir/index.new
+|4,39,1,0,1675436585,"~/mydir/index.new"
 -'  1  0  ~/mydir/index.new
 |4,39,1,0,1675436585,"~/mydir/index.new"
 -'  1  0  ~/mydir/index.new
@@ -53,12 +69,27 @@
 |4,39,1,0,1675436380,"~/mydir/index.new"
 -'  1  0  ~/mydir/index.new
 |4,39,1,0,1675436380,"~/mydir/index.new"
+-'  1  0  ~/mydir/index.new
+|4,39,1,0,1675436380,"~/mydir/index.new"
+-'  1  0  ~/mydir/index.new
+|4,39,1,0,1675436380,"~/mydir/index.new"
+-'  1  0  ~/mydir/index.new
+|4,39,1,0,1675436276,"~/mydir/index.new"
+-'  1  0  ~/mydir/index.new
+|4,39,1,0,1675436276,"~/mydir/index.new"
 -'  1  0  ~/mydir/index.new
 |4,39,1,0,1675436276,"~/mydir/index.new"
 -'  1  0  ~/mydir/index.new
 |4,39,1,0,1675436276,"~/mydir/index.new"
 
 # History of marks within files (newest to oldest):
+
+> ~/dir/index.new
+	*	1675437785	0
+	"	2	0
+	^	2	0
+	.	1	8
+	+	1	8
 
 > ~/index.new
 	*	1675437613	0
